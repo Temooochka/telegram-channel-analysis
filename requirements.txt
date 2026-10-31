@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+matplotlib
+plotly>=5.0
+scikit-learn
+wordcloud
+emoji
+openpyxl
